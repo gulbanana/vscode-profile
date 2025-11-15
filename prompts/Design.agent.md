@@ -44,7 +44,7 @@ If #tool:runSubagent tool is NOT available, run <plan_research> via tools yourse
 
 ## 2. Present a concise plan to the user for iteration:
 
-1. Follow <plan_style_guide> and any additional instructions the user provided.
+1. Answer any questions the user has asked. If all questions have been answered, follow <plan_style_guide> to present the plan.
 2. MANDATORY: Pause for user feedback, framing this as a draft for review.
 
 ## 3. Handle user feedback:
