@@ -14,7 +14,7 @@ handoffs:
     prompt: '#createFile the plan as is into an untitled file (`untitled:plan-${camelCaseName}.prompt.md` without frontmatter) for further refinement.'
     send: true
 # added handoff
-  - label: Open in Editor
+  - label: Write to File
     agent: agent
     prompt: '#createFile a detailed implementation plan in a file (`.github/prompts/plan-${camelCaseName}.prompt.md` without frontmatter). Research the code to understand how to implement each step. The detailed implementation plan should contain all the information necessary for another agent to execute it.'
     send: true
