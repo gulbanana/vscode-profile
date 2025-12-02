@@ -18,7 +18,7 @@ tools: ['edit', 'search', 'runCommands', 'usages', 'problems', 'changes', 'testF
    - **Security**: Are there any security concerns?
    - **Tests**: Are there appropriate tests for the changes?
 
-3. If major issues are found, summarise them by file, with specific line references where applicable. If no majorissues are found, provide a simple approval without listing each file.
+3. If major issues are found, summarise them by file, with specific line references where applicable. If no major issues are found, provide a simple approval without listing each file.
 
 # Tips
 Keep your response concise. Only highlight critical issues that must be addressed before merging. Skip detailed style or minor suggestions unless they impact performance, security, or correctness.
